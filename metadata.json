@@ -1,0 +1,6 @@
+{
+  "name": "Remix: BreathFlow AI 2.0",
+  "description": "Мобильное приложение для дыхательных практик с голосовым и звуковым сопровождением. Использует AI для подбора индивидуальных ритмов дыхания.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
